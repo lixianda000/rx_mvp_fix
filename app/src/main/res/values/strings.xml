@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RxjavaRetrofitDemo</string>
+
+    <string name="dear_user">亲爱的用户</string>
+    <string name="close_permisson_toast">您关闭权限申请,如需使用请重新点击.</string>
+</resources>

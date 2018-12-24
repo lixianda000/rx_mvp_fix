@@ -1,0 +1,4 @@
+<resources>
+    <string name="dear_user">Dear user</string>
+    <string name="close_permisson_toast">You have closed the access for PE, please reopen it if you want to use this function.</string>
+</resources>
